@@ -1,4 +1,4 @@
-## HELLO, I'M ELLEN!
+## About Me
 
 A newbie in Data Science, a tennis enthusiastist and a cocktail lover. Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
 
@@ -10,7 +10,7 @@ I love snow!!
 
 I graduated from Boston University with a Master degree in Economics. Currently, I am a Clinical Data Manager at WorldCare Clinical, handling clinical trial data for clients. Before that, I worked at Boston Public Health Commission as a Data Analysis Intern. For more details, click below:
 
-[Resume](https://ellenxxiao.github.io/resume/)
+[Resume](https://github.com/ellenxxiao/resume/raw/master/Resume_Xiao.pdf)
 
 [LinkedIn](https://www.linkedin.com/in/ellen-xiao-614242144/)
 
