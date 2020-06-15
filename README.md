@@ -22,7 +22,9 @@ I am adding cutting-edge skills to my toolbox, Machine learning is one of them. 
 
 ### Skills
 **Programming:** Python, SAS, SQL
+
 **Visualization:** Tableau, Power BI, Plotly
+
 **Language:** English, Mandarin Chinese
 
 ### Awards
