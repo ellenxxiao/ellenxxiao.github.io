@@ -2,7 +2,9 @@
 
 A newbie in Data Science, a tennis enthusiastist and a cocktail lover. Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
 
-Born and bred in Beijing, have lived in Madison, WI and Shanghai, now working in **Boston**.
+Born and bred in Beijing, have lived in Madison, WI and Shanghai, now working in Boston.
+
+I love snow!! 
 
 ### Background
 
@@ -19,7 +21,6 @@ I am adding cutting-edge skills to my toolbox, Machine learning is one of them. 
 [Github](https://github.com/ellenxxiao/)
 
 ### Skills
-**Programming:** Python, SAS, SQL
-**Visualization:** Tableau, Power BI, Plotly
+**Programming:** Python, SAS, SQL    **Visualization:** Tableau, Power BI, Plotly
 
 
