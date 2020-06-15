@@ -1,5 +1,7 @@
 ## HELLO, I'M ELLEN!
 
+![IMG_2350](https://user-images.githubusercontent.com/26680796/84710979-4a1f9c80-af33-11ea-8770-57ce60ace3be.jpeg)
+
 A newbie in Data Science, a tennis enthusiastist and a cocktail lover. Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
 
 Born and bred in Beijing, have lived in Madison, WI and Shanghai, now working in Boston.
