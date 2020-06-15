@@ -1,6 +1,8 @@
 ## About Me
 
-A newbie in Data Science, a tennis enthusiastist and a cocktail lover. Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
+A newbie in Data Science, a tennis enthusiastist and a cocktail lover. 
+
+Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
 
 Born and bred in Beijing, have lived in Madison, WI and Shanghai, now working in Boston.
 
