@@ -22,7 +22,5 @@ I am adding cutting-edge skills to my toolbox, Machine learning is one of them. 
 
 [Github](https://github.com/ellenxxiao/)
 
-### Skills
-**Programming:** Python, SAS, SQL    **Visualization:** Tableau, Power BI, Plotly
 
 
