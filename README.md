@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## HELLO, I'M ELLEN!
 
-You can use the [editor on GitHub](https://github.com/ellenxxiao/ellenxxiao.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A newbie in Data Science, a tennis enthusiastist and a cocktail lover. Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Born and bred in Beijing, have lived in Madison, WI and Shanghai, now working in **Boston**.
 
-### Markdown
+### Background
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I graduated from Boston University with a Master degree in Economics. Currently, I am a Clinical Data Manager at WorldCare Clinical, handling clinical trial data for clients. Before that, I worked at Boston Public Health Commission as a Data Analysis Intern. For more details, click below:
 
-```markdown
-Syntax highlighted code block
+[Resume](https://ellenxxiao.github.io/resume/)
 
-# Header 1
-## Header 2
-### Header 3
+[LinkedIn](https://www.linkedin.com/in/ellen-xiao-614242144/)
 
-- Bulleted
-- List
+### Projects
 
-1. Numbered
-2. List
+I am adding cutting-edge skills to my toolbox, Machine learning is one of them. I love to learn with hands-on project, solve interesting problems and tinker with programs. 
 
-**Bold** and _Italic_ and `Code` text
+[Github](https://github.com/ellenxxiao/)
 
-[Link](url) and ![Image](src)
-```
+### Skills
+**Programming:** Python, SAS, SQL
+**Visualization:** Tableau, Power BI, Plotly
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ellenxxiao/ellenxxiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
