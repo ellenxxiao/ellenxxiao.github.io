@@ -16,7 +16,7 @@ I graduated from Boston University with a Master degree in Economics. Currently,
 
 ### Projects
 
-I am adding cutting-edge skills to my toolbox, Machine learning is one of them. I love to learn with hands-on project, solve interesting problems and tinker with programs. 
+I love to learn with hands-on projects, solve interesting problems and tinker with programs. 
 
 [Github](https://github.com/ellenxxiao/)
 
