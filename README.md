@@ -8,7 +8,7 @@ I love snow!!
 
 ### Background
 
-I graduated from Boston University with a Master degree in Economics. Currently, I am a Clinical Data Manager at WorldCare Clinical, handling clinical trial data for clients. Before that, I worked at Boston Public Health Commission as a Data Analysis Intern. 
+I graduated from Boston University with a Master degree in Economics. Currently, I am a Clinical Data Manager, handling clinical trial data for clients. Before that, I worked at Boston Public Health Commission as a Data Analysis Intern. 
 
 [Resume](https://github.com/ellenxxiao/resume/raw/master/Resume_Xiao.pdf)
 
