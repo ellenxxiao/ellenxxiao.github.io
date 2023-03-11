@@ -1,17 +1,21 @@
 ## About Me
 
-A newbie in Data Science, a tennis enthusiastist and a cocktail lover. I Love skating and skiing in Winter, and hiking in Summer, always excited to explore new hiking trails. 
+**Hi, I'm Ellen Xiao**
 
-Born and bred in Beijing, lived in Madison, WI and Shanghai, now working in Boston. 
+A data science analyst, a tennis enthusiastist and a cocktail lover. I Love skating and skiing in Winter, and hiking in Summer, always excited to exploring new hiking trails. 
+
+Born and bred in Beijing, lived in Shanghai, Madison, Boston, and Salt Lake City, now living and working in Bay Area. I have a dog, Malden, who is named after a town outside Boston. 
+
+<img src="https://github.com/ellenxxiao/resume/blob/master/me_dog.png" width="240" height="320">
 
 
-### Background
+### Professional Experience
 
-I graduated from Boston University with a Master degree in Economics. I am a Clinical Data Manager, handling clinical trial data for clients. Before that, I worked at Boston Public Health Commission as a Data Analysis Intern. Before coming to Boston, I have worked in an investment company in Shanghai, collaborated on private equity investment in Chinese education industry.
+With more than four years of professional experience in data science and marketing analytics. I have worked in both technology and business sectors. I am presently a member of the Data Science team at a TV ads technology company, where I measure and optimize TV buys. Previously, I worked as a Clinical Data Manager, managing clinical trial data for big pharmaceutical companies. Before moving to the United States, I collaborated on private equity investment in the Chinese education industry while working at an investment company in Shanghai.
 
-[Resume](https://github.com/ellenxxiao/resume/raw/master/Resume_Xiao.pdf)
+[Resume](https://github.com/ellenxxiao/resume/raw/master/Ellen-Xiao-Resume.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/ellen-xiao-614242144/)
+[LinkedIn](https://www.linkedin.com/in/ellen-xiao/)
 
 ### Projects
 
@@ -22,7 +26,9 @@ I love to learn with hands-on projects, solve interesting problems and tinker wi
 ### Skills
 **Programming:** Python, SAS, SQL
 
-**Visualization:** Tableau, Power BI, Plotly
+**Platform:** AWS, Databricks
+
+**Visualization Tool:** Tableau, Power BI
 
 **Language:** English, Mandarin Chinese
 
