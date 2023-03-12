@@ -6,8 +6,6 @@ A data science analyst, a tennis enthusiastist and a cocktail lover. I Love skat
 
 Born and bred in Beijing, lived in Shanghai, Madison, Boston, and Salt Lake City, now living and working in Bay Area. I have a dog, Malden, who is named after a town outside Boston. 
 
-<img src="https://github.com/ellenxxiao/resume/blob/master/me_dog.png" width="240" height="320">
-
 
 ### Professional Experience
 
